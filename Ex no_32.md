@@ -4,11 +4,15 @@
 To write a C program to display Hardware details such as price, product name and price using structure.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+```
+Start.
+Define a variables a,b,c.
+Write program to find the smallest among the three numbers.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End
+```
 
 ## Program:
 ```
