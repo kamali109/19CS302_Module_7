@@ -4,11 +4,15 @@
 To write a C program to read a file name from user and create that file and insert student roll numbers in to that file.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+```
+ Start.
+Define a variables.
+Write a program to read a file name from user and create that file and insert student roll numbers in to that file.
+Read the value using scanf.
+Ask the user to make an input.
+Print out the answer.
+End.
+```  
 
 ## Program:
 ```
